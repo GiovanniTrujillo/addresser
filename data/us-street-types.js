@@ -1,4 +1,4 @@
-{
+export const usStreetTypes = Object.freeze({
     "allee"      : "aly",
     "alley"      : "aly",
     "ally"       : "aly",
@@ -552,4 +552,4 @@
     "wy"         : "way",
     "xing"       : "xing",
     "xrd"        : "xrd"
- }
+ })
